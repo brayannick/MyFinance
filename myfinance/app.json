@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "expo-status-bar",
+    "expo-sqlite",
+    "expo-font"
+  ],
+  "extra": {
+    "eas": {
+      "projectId": "24bf2a3a-f7d6-488d-9c11-0cf6cf4adaf1"
+    }
+  }
+}

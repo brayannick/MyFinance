@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+dist/
+*.ipa
+
+# Segredos: nunca versionar (só o .env.example vai para o GitHub)
+.env
+.env.*
+!.env.example
